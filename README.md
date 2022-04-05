@@ -1,6 +1,6 @@
 # SMPS Inline Filter with M3 holes - YGL92S
 
-![PCB Top](Picture/SMPS_Inline_Filter_with_M3_holes_30V_-_top.jpg
+![PCB Top](Picture/SMPS_Inline_Filter_with_M3_holes_30V_-_top.jpg)
 
 ![PCB Bottom](Picture/SMPS_Inline_Filter_with_M3_holes_30V_-_bottom.jpg)
  
